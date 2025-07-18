@@ -26,7 +26,7 @@
 <h2 align="center">Languages-Frameworks-Tools used</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,nodejs,Power BI" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,nodejs,powerbi" />
     <img src="https://skillicons.dev/icons?i=mysql,github,vscode" /><br>
 </div>
 <hr/>
